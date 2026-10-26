@@ -11,6 +11,7 @@ Computer Science undergraduate at Graphic Era University, focused on backend eng
 | Project | Focus | Stack |
 | --- | --- | --- |
 | [OctaTrade](https://github.com/Vishwaranjan0001/OctaTrade) | Paper trading, order concurrency, virtual wallets | Node.js, Express, MongoDB, Redis, React |
+| [SupportOps AI](https://github.com/Vishwaranjan0001/SupportOps-AI) | Tool-backed customer support, policy retrieval, human refund approval | Python, FastAPI, LangGraph, MCP, React, SQLite |
 | [Simple Storage Service](https://github.com/Vishwaranjan0001/S3) | Bucket-based file storage API | Python, Flask, SQLAlchemy, SQLite |
 | [FoodBridge](https://github.com/Vishwaranjan0001/App) | Food donation coordination; group project | React, Express, MongoDB, JWT |
 | [WanderLust](https://github.com/Vishwaranjan0001/WanderLust) | Travel listings, reviews, booking workflows | Express, EJS, MongoDB, Passport |
