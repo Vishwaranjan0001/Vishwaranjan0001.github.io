@@ -1,3 +1,7 @@
 node_modules/
 dist/
 .openai/local/
+
+# Keep personal resumes out of the public repository
+/public/*Resume*.pdf
+/public/*resume*.pdf

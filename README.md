@@ -2,7 +2,7 @@
 
 Personal portfolio built with React, Vite, GSAP ScrollTrigger, Lenis and React Bits.
 
-**[Visit portfolio](https://vishwaranjan0001.github.io/)** · **[GitHub profile](https://github.com/Vishwaranjan0001)** · **[Résumé](https://vishwaranjan0001.github.io/Vishwaranjan-Singh-Resume.pdf)**
+**[Visit portfolio](https://vishwaranjan0001.github.io/)** · **[GitHub profile](https://github.com/Vishwaranjan0001)**
 
 Computer Science undergraduate at Graphic Era University, focused on backend engineering, full-stack applications, and AI-powered workflows.
 
@@ -50,7 +50,7 @@ This repository is the account website, so Vite's default `/` base path is corre
 
 - OctaTrade is one of three portfolio projects. Its cover is an actual screenshot from its repository.
 - Storage and food project images are illustrative interface concepts, described in image alt text.
-- The portrait and résumé were supplied by Vishwaranjan Singh.
+- The portrait was supplied by Vishwaranjan Singh.
 - Name lettering uses React Bits SplitText. Achievement counters animate only on their first appearance per page visit.
 - The site respects reduced-motion preferences and supports touch and keyboard interactions.
 
