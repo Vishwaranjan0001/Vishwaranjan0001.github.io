@@ -13,14 +13,13 @@ Computer Science undergraduate at Graphic Era University, focused on backend eng
 | [OctaTrade](https://github.com/Vishwaranjan0001/OctaTrade) | Paper trading, order concurrency, virtual wallets | Node.js, Express, MongoDB, Redis, React |
 | [SupportOps AI](https://github.com/Vishwaranjan0001/SupportOps-AI) | Tool-backed customer support, policy retrieval, human refund approval | Python, FastAPI, LangGraph, MCP, React, SQLite |
 | [Simple Storage Service](https://github.com/Vishwaranjan0001/S3) | Bucket-based file storage API | Python, Flask, SQLAlchemy, SQLite |
-| [FoodBridge](https://github.com/Vishwaranjan0001/App) | Food donation coordination; group project | React, Express, MongoDB, JWT |
+| [FoodBridge](https://github.com/Vishwaranjan0001/FoodBridge) | Food donation coordination; group project | React, Express, MongoDB, JWT |
 | [WanderLust](https://github.com/Vishwaranjan0001/WanderLust) | Travel listings, reviews, booking workflows | Express, EJS, MongoDB, Passport |
-| [BalanceX](https://github.com/Vishwaranjan0001/BalanceX-Module-final) | Heap-based load balancing prototype | C++17, CMake, Asio |
-| [MediMatch](https://github.com/Vishwaranjan0001/MediMatchfinL) | Blood-request coordination prototype | Java, Spring Boot, MongoDB |
-| [Krishi Sarthi](https://github.com/Vishwaranjan0001/Krishi_Sarthi_Implement-1-) | Bilingual farming dashboard prototype | React, TypeScript, Tailwind |
-| [ADAM fork](https://github.com/Vishwaranjan0001/ADAM) | Public-record knowledge and retrieval platform | Python, FastAPI, Next.js, PostgreSQL |
+| [BalanceX](https://github.com/Vishwaranjan0001/BalanceX) | Heap-based load balancing prototype | C++17, CMake, Asio |
+| [MediMatch](https://github.com/Vishwaranjan0001/MediMatch) | Blood-request coordination prototype | Java, Spring Boot, MongoDB |
+| [Krishi Sarthi](https://github.com/Vishwaranjan0001/Krishi-Sarthi) | Bilingual farming dashboard prototype | React, TypeScript, Tailwind |
 
-ADAM is a fork of [anuragdevcode/ADAM](https://github.com/anuragdevcode/ADAM); the link identifies its upstream source. Individual READMEs describe current scope and setup requirements.
+Individual READMEs describe current scope and setup requirements.
 
 ## Run locally
 
