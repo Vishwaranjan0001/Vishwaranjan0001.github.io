@@ -49,7 +49,7 @@ This repository is the account website, so Vite's default `/` base path is corre
 ## Content and motion
 
 - OctaTrade is one of three portfolio projects. Its cover is an actual screenshot from its repository.
-- Storage and food project images are illustrative interface concepts, described in image alt text.
+- Storage and food project images are illustrative interface concepts, described in image alt text. Project artwork has no caption overlays.
 - The portrait was supplied by Vishwaranjan Singh.
 - Name lettering uses React Bits SplitText. Achievement counters animate only on their first appearance per page visit.
 - The site respects reduced-motion preferences and supports touch and keyboard interactions.
